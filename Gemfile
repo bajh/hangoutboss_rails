@@ -56,5 +56,7 @@ group :production do
   gem "rails_12factor"
 end
 
-gem "bootstrap-sass", "~> 3.1.1"
 gem "devise"
+gem "foundation-rails"
+gem "slim"
+gem "slim-rails"
